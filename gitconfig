@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dabalx@gmail.com
+	name = Thomas Henriet
